@@ -1,0 +1,6 @@
+Gyvūnas: Delfinas;Panda;Krokodilas;Pilkoji Gervė;Bengalijos tigras;
+Pietų Amerika+M+999+15
+Azija+M+103.75+16.5
+Afrika+NM+625.6+89
+Azija+NM+2.01+18
+Azija+M+135.2+13.2
